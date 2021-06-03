@@ -20,7 +20,7 @@ namespace s1063754.Controllers
             }
 
             ViewBag.name = name;
-            ViewBag.result = result;
+            ViewBag.result = result; 
 
             return View();
         }
